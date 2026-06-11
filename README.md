@@ -51,12 +51,10 @@ Desarrollador de Software con enfoque en soluciones reales. Me especializo en de
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Stack | Acceso |
-|---|---|---|---|
-| [Pathfinding · A* vs Dijkstra](https://github.com/JxsueMd16/pathfinding-project) | Visualizador interactivo de rutas sobre mapas reales con animación y dos algoritmos implementados desde cero | Python · OSMnx · Tkinter | 🟢 Público |
-| [2 Hermanos POS](https://github.com/JxsueMd16/2hermanos-pos) | Sistema POS para distribuidor mayorista con 15 estados de orden y 5 roles de usuario | React · TypeScript · Express · PostgreSQL | 🔒 Privado |
-| [Oxdea Logistics](https://github.com/JxsueMd16/oxdea-logistics) | Sistema interno de gestión logística, órdenes y proveedores con integración WooCommerce | Node.js · Express · EJS · MySQL | 🔒 Privado |
-| [Oxdea CRM Chat](https://github.com/JxsueMd16/oxdea-crm-chat) | CRM de comunicación en tiempo real integrado con WhatsApp | Node.js · Socket.io · MySQL | 🔒 Privado |
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [mapa_dijkstraA-](https://github.com/JxsueMd16/mapa_dijkstraA-) | Visualizador interactivo de rutas sobre mapas reales. Compara A* vs Dijkstra con animación y datos de OpenStreetMap | Python · OSMnx · Tkinter · NetworkX |
+| [MCP Backend](https://github.com/JxsueMd16/MCP_BACKEND) | API REST con métricas instrumentadas en Prometheus y análisis automático con Gemini AI | Node.js · Express · MySQL · Prometheus |
 
 ---
 
