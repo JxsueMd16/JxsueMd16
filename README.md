@@ -53,6 +53,7 @@ Desarrollador de Software con enfoque en soluciones reales. Me especializo en de
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [cypress-e2e-suite](https://github.com/JxsueMd16/cypress-e2e-suite) | Suite de tests E2E automatizados sobre Sauce Demo — auth, productos y checkout | Cypress · JavaScript |
 | [mapa_dijkstraA-](https://github.com/JxsueMd16/mapa_dijkstraA-) | Visualizador interactivo de rutas sobre mapas reales. Compara A* vs Dijkstra con animación y datos de OpenStreetMap | Python · OSMnx · Tkinter · NetworkX |
 | [MCP Backend](https://github.com/JxsueMd16/MCP_BACKEND) | API REST con métricas instrumentadas en Prometheus y análisis automático con Gemini AI | Node.js · Express · MySQL · Prometheus |
 
