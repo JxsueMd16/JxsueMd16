@@ -40,11 +40,23 @@ Desarrollador de Software con enfoque en soluciones reales. Me especializo en de
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ### IoT y Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Stack | Acceso |
+|---|---|---|---|
+| [Pathfinding · A* vs Dijkstra](https://github.com/JxsueMd16/pathfinding-project) | Visualizador interactivo de rutas sobre mapas reales con animación y dos algoritmos implementados desde cero | Python · OSMnx · Tkinter | 🟢 Público |
+| [2 Hermanos POS](https://github.com/JxsueMd16/2hermanos-pos) | Sistema POS para distribuidor mayorista con 15 estados de orden y 5 roles de usuario | React · TypeScript · Express · PostgreSQL | 🔒 Privado |
+| [Oxdea Logistics](https://github.com/JxsueMd16/oxdea-logistics) | Sistema interno de gestión logística, órdenes y proveedores con integración WooCommerce | Node.js · Express · EJS · MySQL | 🔒 Privado |
+| [Oxdea CRM Chat](https://github.com/JxsueMd16/oxdea-crm-chat) | CRM de comunicación en tiempo real integrado con WhatsApp | Node.js · Socket.io · MySQL | 🔒 Privado |
 
 ---
 
