@@ -5,7 +5,7 @@
 
 ---
 
-Desarrollador de Software con enfoque en soluciones reales. Me especializo en desarrollo web fullstack — frontend, backend, bases de datos y servidores — con conocimiento creciente en cultura DevOps y automatización de infraestructura. Busco constantemente la eficiencia: entender bien el problema antes de resolverlo, y construir sistemas que tengan impacto concreto.
+Desarrollador de Software con enfoque en soluciones reales. Me especializo en desarrollo web fullstack — frontend, backend, bases de datos y servidores — con conocimiento creciente en DevOps y automatización de infraestructura. 
 
 > *"Si puedes imaginarlo, puedes programarlo."*
 
