@@ -5,7 +5,7 @@
 
 ---
 
-Desarrollador de Software con sistemas empresariales. Me especializo en desarrollo web fullstack — frontend, backend, bases de datos y servidores — con conocimiento creciente en DevOps y automatización de infraestructura. 
+Desarrollador de Software orientado a Sistemas Empresariales. Me especializo en desarrollo web fullstack — frontend, backend, bases de datos y servidores — con conocimiento creciente en DevOps y automatización de infraestructura. 
 
 > *"Si puedes imaginarlo, puedes programarlo."*
 
