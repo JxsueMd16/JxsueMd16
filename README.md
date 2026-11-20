@@ -12,9 +12,9 @@
 
 Desarrollador full stack con pensum cerrado en Ingeniería en Sistemas y experiencia construyendo sistemas empresariales en producción: logística, facturación electrónica, punto de venta y CRM. Me especializo en **integración de APIs** y **arquitectura de microservicios**, y manejo el ciclo completo: desarrollo, bases de datos, despliegue en servidores Linux y soporte a usuarios.
 
-- 💼 Actualmente desarrollo y mantengo sistemas empresariales en producción.
-- 🧩 Me gusta conectar sistemas: APIs de terceros, facturación electrónica, mensajería y nube.
-- 🚀 Aprendiendo más sobre DevOps, observabilidad e inteligencia artificial aplicada.
+- Actualmente desarrollo y mantengo sistemas empresariales en producción.
+- Me gusta conectar sistemas: APIs de terceros, facturación electrónica, mensajería y nube.
+- Aprendiendo más sobre DevOps, observabilidad e inteligencia artificial aplicada.
 
 > *"Si puedes imaginarlo, puedes programarlo."*
 
@@ -84,9 +84,9 @@ Desarrollador full stack con pensum cerrado en Ingeniería en Sistemas y experie
 |---|---|---|
 | [Evenly](https://github.com/JxsueMd16/evenly_ACS) | Gestor de gastos compartidos para grupos, con API REST, pruebas E2E y CI en GitHub Actions | React · TypeScript · Node.js · Prisma · PostgreSQL · Cypress |
 | [Pipeline DevSecOps](https://github.com/JxsueMd16/jenkins-devsecops-pipeline) | Pipeline de 6 etapas con pruebas E2E, análisis de dependencias, escaneo de contenedores y DAST antes de aprobar el despliegue | Jenkins · Docker · Trivy · OWASP ZAP · Cypress |
-| [Docker Infra](https://github.com/JxsueMd16/docker-infra) | Stack completo con Docker Compose y Nginx como reverse proxy | Docker · Node.js · MySQL · Nginx |
+| [Inmobiliaria App](https://github.com/JxsueMd16/inmobiliaria_app) | Sistema de gestión inmobiliaria con arquitectura en 3 capas: propiedades, clientes, negociaciones, contratos, financiamientos y reportes | C# · .NET 8 · WinForms · Dapper · Oracle |
 | [MCP Backend](https://github.com/JxsueMd16/MCP_BACKEND) | API REST con métricas instrumentadas en Prometheus y análisis automático con IA | Node.js · Express · MySQL · Prometheus · Gemini |
-| [Mapa A* vs Dijkstra](https://github.com/JxsueMd16/mapa_dijkstraA-) | Visualizador interactivo de rutas sobre mapas reales de OpenStreetMap, con animación de ambos algoritmos | Python · OSMnx · NetworkX · Tkinter |
+| [Hilacho](https://github.com/JxsueMd16/hilacho) | Juego de plataformas 2D para el reto open2 Build & Pitch: un solo archivo de menos de 32 KB, sin librerías ni assets, con música sintetizada | JavaScript · Canvas · Web Audio |
 
 ---
 
